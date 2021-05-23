@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="aAcjaaNXyXJo3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="BCSgs2GiqnfDM" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>CAM 1.3</schemaversion>
 <lom:lom>
 <lom:general>
 <lom:title>
-<lom:string>TestTynker02</lom:string>
+<lom:string>TestTynker03</lom:string>
 </lom:title>
 </lom:general>
 <lom:educational>
@@ -20,11 +20,11 @@
 </lom:metaMetadata>
 </lom:lom>
 </metadata>
-<organizations default="testtynker02_organization">
-<organization identifier="testtynker02_organization">
-<title>TestTynker02</title>
+<organizations default="testtynker03_organization">
+<organization identifier="testtynker03_organization">
+<title>TestTynker03</title>
 <item identifier="E882689E-829A-459F-A94B-D33146A439EC" identifierref="resource">
-<title>TestTynker</title>
+<title>TestTynker02</title>
 <imsss:sequencing>
 <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
 </imsss:sequencing>
@@ -93,8 +93,6 @@
 <file href="res/data/wo1/pageWithEmbeddedCode.html"/>
 <file href="res/data/slide7.js"/>
 <file href="res/data/slide7.css"/>
-<file href="res/data/slide8.js"/>
-<file href="res/data/slide8.css"/>
 <file href="res/data/quiz4.js"/>
 <file href="res/data/quiz4/audios/snd-ddad531c14ddbe8fb49cff2bd91bb3596d373781.mp3"/>
 <file href="res/data/quiz4/audios/snd-ebf9735d4d7bea5b186547481ecbf118bf5d8206.mp3"/>
@@ -104,10 +102,10 @@
 <file href="res/data/quiz4/fonts/fnt2.woff"/>
 <file href="res/data/quiz4/images/img-d4c266e3363aea047f3d6b750274e37355e97173.png"/>
 <file href="res/data/quiz4/images/quiz_bg_0.png"/>
+<file href="res/data/slide9.js"/>
+<file href="res/data/slide9.css"/>
 <file href="res/data/slide10.js"/>
 <file href="res/data/slide10.css"/>
-<file href="res/data/slide11.js"/>
-<file href="res/data/slide11.css"/>
 <file href="res/data/quiz5.js"/>
 <file href="res/data/quiz5/audios/snd-ebf9735d4d7bea5b186547481ecbf118bf5d8206.mp3"/>
 <file href="res/data/quiz5/audios/snd-faba76a7e9c312a397e4a8474a35e54f4ce3bd48.mp3"/>
@@ -115,39 +113,39 @@
 <file href="res/data/quiz5/fonts/fnt1.woff"/>
 <file href="res/data/quiz5/images/img-4f2e76b771cb1b46aaab0d9caf9c7676b39b503f.png"/>
 <file href="res/data/quiz5/images/quiz_bg_1.png"/>
+<file href="res/data/slide12.js"/>
+<file href="res/data/slide12.css"/>
+<file href="res/data/video2.mp4"/>
 <file href="res/data/slide13.js"/>
 <file href="res/data/slide13.css"/>
-<file href="res/data/video2.mp4"/>
+<file href="res/data/video3.mp4"/>
 <file href="res/data/slide14.js"/>
 <file href="res/data/slide14.css"/>
-<file href="res/data/video3.mp4"/>
+<file href="res/data/video4.mp4"/>
 <file href="res/data/slide15.js"/>
 <file href="res/data/slide15.css"/>
-<file href="res/data/video4.mp4"/>
+<file href="res/data/video5.mp4"/>
 <file href="res/data/slide16.js"/>
 <file href="res/data/slide16.css"/>
-<file href="res/data/video5.mp4"/>
+<file href="res/data/video6.mp4"/>
 <file href="res/data/slide17.js"/>
 <file href="res/data/slide17.css"/>
-<file href="res/data/video6.mp4"/>
 <file href="res/data/slide18.js"/>
 <file href="res/data/slide18.css"/>
 <file href="res/data/slide19.js"/>
 <file href="res/data/slide19.css"/>
 <file href="res/data/slide20.js"/>
 <file href="res/data/slide20.css"/>
+<file href="res/data/video7.mp4"/>
 <file href="res/data/slide21.js"/>
 <file href="res/data/slide21.css"/>
-<file href="res/data/video7.mp4"/>
+<file href="res/data/video8.mp4"/>
 <file href="res/data/slide22.js"/>
 <file href="res/data/slide22.css"/>
-<file href="res/data/video8.mp4"/>
 <file href="res/data/slide23.js"/>
 <file href="res/data/slide23.css"/>
 <file href="res/data/slide24.js"/>
 <file href="res/data/slide24.css"/>
-<file href="res/data/slide25.js"/>
-<file href="res/data/slide25.css"/>
 <file href="res/data/quizplayer.js"/>
 <file href="res/index.html"/>
 <file href="res/data/player.js"/>
